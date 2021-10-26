@@ -11,7 +11,8 @@ title                    : "Rohit Dwivedula"
 title_separator          : "-"
 name                     : &name "Rohit Dwivedula"
 description              : &description "personal description"
-url                      : https://dwivedula.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : http://localhost:4000 # for development
+url                      : https://dwivedula.dev
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rohitdwivedula/rohitdwivedula.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Rohit Dwivedula"
-  avatar           : "profile.png"
-  bio              : "B.E. Computer Science, BITS Pilani (2021)"
+  avatar           : "rohit_dula.jpeg"
+  bio              : "Research Fellow at Microsoft Research, India. B.E. Computer Science, BITS Pilani (2021)"
   location         : "Bengaluru, India"
   employer         :
   pubmed           : 
