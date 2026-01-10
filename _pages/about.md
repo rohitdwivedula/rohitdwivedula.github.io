@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a third-year Ph.D. student at UT Austin's [Networked Systems Lab](https://utns.cs.utexas.edu/), advised by [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/) and [Prof. Daehyeok Kim](https://daehyeok.kim/). I am part of the [Learning Directed Operating Systems](https://ldos.utexas.edu/) project, where I focus on making modern autonomous mobile service robots (AMSRs) more performant through improving abstractions and resource management in ROS.
+Hi! I am a third-year Ph.D. student at UT Austin's [Networked Systems Lab](https://utns.cs.utexas.edu/), advised by [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/) and [Prof. Daehyeok Kim](https://daehyeok.kim/). I am also a part of the [Learning Directed Operating Systems](https://ldos.utexas.edu/) project, where we are building a next generation operating system that leverages ML to improve performance and adaptability. Previously, I worked as a research fellow at Microsoft Research India (2021 -- 2023) and majored in computer science at BITS Pilani - Hyderabad Campus, India (2017 -- 2021).
 
-Previously, I worked as a research fellow at Microsoft Research India (2021 -- 2023) and majored in computer science at BITS Pilani - Hyderabad Campus, India (2017 -- 2021).
+I am broadly interested in operating systems, ML for systems, and systems for AI.
 
 ## News
++ 📜 <span style="font-family: monospace;">**Sep 2025**:</span> [PolicySmith](https://arxiv.org/pdf/2510.08803), a framework that uses LLMs to generate instance-optimal systems heuristics to appear at HotNets 2025!  
 + 🏆 <span style="font-family: monospace;">**Aug 2025**:</span> Awarded the Amazon AI PhD Fellowship (2025–2026)!
 + 📜 <span style="font-family: monospace;">**Jun 2025**:</span> [ConfigBot](https://arxiv.org/abs/2501.10513) accepted for publication at IROS 2025!
 + 📝 <span style="font-family: monospace;">**Jul 2024**:</span> Presented a poster on [TrustRate](https://arxiv.org/abs/2402.18386) at PETS 2024 in Bristol, UK.  
