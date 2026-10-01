@@ -13,6 +13,7 @@ Hi! I am a fourth-year Ph.D. student at UT Austin's [Networked Systems Lab](http
 I am broadly interested in operating systems, ML for systems, and systems for AI.
 
 ## News
++ 📜 <span style="font-family: monospace;">**Sep 2026**:</span> [Vulcan](https://arxiv.org/abs/2512.25065), our system for synthesizing instance-specialized, verifiable systems heuristics through LLM-driven search, to appear at EuroSys 2027!  
 + 💼 <span style="font-family: monospace;">**May 2026**:</span> Interning at Google Cloud this summer!  
 + 📜 <span style="font-family: monospace;">**Sep 2025**:</span> [PolicySmith](https://arxiv.org/pdf/2510.08803), a framework that uses LLMs to generate instance-optimal systems heuristics to appear at HotNets 2025!  
 + 🏆 <span style="font-family: monospace;">**Aug 2025**:</span> Awarded the [Amazon AI PhD Fellowship](https://sciencehub.utexas.edu/amazon-awards-15-ut-graduate-students-ai-ph-d-fellowships/) (2025-27)!
